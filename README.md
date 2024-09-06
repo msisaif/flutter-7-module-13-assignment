@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<hr />
+
+## Assignment Output
+
+<img src="https://github.com/user-attachments/assets/95ddc7af-8b16-485b-bd0a-444ee31c5bb7" alt="Assignment Output" width="360"/>
